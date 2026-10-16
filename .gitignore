@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+*.pth
+*.pt
+*.safetensors
+*.onnx
+*.db3
+*.mcap
+*.bag
+*.npy
+*.npz
+output/
