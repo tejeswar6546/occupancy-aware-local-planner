@@ -109,7 +109,7 @@ The demo video shows the real camera view next to the occupancy grid and the loo
 
 ### Video
 
-[View the planner demo video](demo/lookahead_planner_demo.mp4)
+https://github.com/user-attachments/assets/0e7c5850-b7c1-4b4a-9871-c4d87b479bb1
 
 ### Planning Examples
 
